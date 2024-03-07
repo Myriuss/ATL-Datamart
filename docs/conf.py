@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'atl-datamart', u'ATL-Datamart Documentation',
      u"Rakib SHEIKH", 'ATL-Datamart',
-     'Projet pour le cours d'atelier Datamart (TRDE704) pour les I1 de l'EPSI', 'Miscellaneous'),
+     'Projet pour le cours d\'atelier Datamart (TRDE704) pour les I1 de l\'EPSI', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
