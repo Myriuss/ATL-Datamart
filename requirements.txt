@@ -7,9 +7,12 @@ Sphinx
 coverage
 awscli
 flake8
-Minio
+Minio~=7.2.5
 python-dotenv
-pendulum
-pandas
-sqlalchemy
-setuptools
+pendulum~=3.0.0
+pandas~=2.2.1
+sqlalchemy~=2.0.28
+setuptools~=65.5.1
+psycopg2~=2.9.9
+boto3~=1.34.57
+numpy~=1.26.4
